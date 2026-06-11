@@ -371,14 +371,14 @@ export default function App() {
                 <div className="project-tags">
                   {p.tags.map((t) => <span className="project-tag" key={t}>{t}</span>)}
                 </div>
-                <div className="project-links">
+                {/* <div className="project-links">
                   <a href={p.live} target="_blank" rel="noreferrer" className="proj-btn live">
                     <Globe size={13} /> Live
                   </a>
                   <a href={p.code} target="_blank" rel="noreferrer" className="proj-btn code">
                     <Github size={13} /> Code
                   </a>
-                </div>
+                </div> */}
               </div>
             ))}
           </div>
