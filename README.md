@@ -36,7 +36,7 @@ Follow these steps to run the project locally.
 1. Clone the repository:
 
    ```bash
-   git clone [<YOUR_REPOSITORY_URL>](https://github.com/rehanpathan650/Portfolio-Rehan.git)
+   git clone https://github.com/rehanpathan650/Portfolio-Rehan.git
    ```
 
 2. Navigate to the project directory:
