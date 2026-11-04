@@ -1,16 +1,88 @@
-# React + Vite
+# Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive developer portfolio built with **React and Vite** to showcase my projects, technical skills, experience, and development journey.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+[View Portfolio](https://portfolio-rehan-one.vercel.app/)
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Responsive design for desktop, tablet, and mobile
+- Dedicated sections for projects, skills, and experience
+- Project cards with GitHub repositories and live demos
+- Clean and minimal user interface
+- Optimized development experience with Vite and Hot Module Replacement (HMR)
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend:** React.js
+- **Build Tool:** Vite
+- **Styling:** CSS
+- **Code Quality:** ESLint
+- **Deployment:** Vercel
+
+## 📂 Getting Started
+
+Follow these steps to run the project locally.
+
+### Prerequisites
+
+- Node.js
+- npm
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone <YOUR_REPOSITORY_URL>
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd <PROJECT_DIRECTORY>
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open the local URL displayed in your terminal.
+
+## 📦 Available Scripts
+
+| Command | Description |
+|---|---|
+| `npm run dev` | Start the development server |
+| `npm run build` | Build the production application |
+| `npm run preview` | Preview the production build |
+| `npm run lint` | Run ESLint |
+
+## 📌 Featured Projects
+
+Some of the projects showcased in this portfolio:
+
+- **ShopMind** – AI-powered business operations assistant using Claude and MCP.
+- **Convertix Labs** – Full-stack client onboarding and management platform.
+- **NutriVision AI** – AI-powered nutrition analysis application.
+- **AgriMart** – Agricultural marketplace application.
+
+## 📬 Connect With Me
+
+- **LinkedIn:** [Rehan Pathan](https://www.linkedin.com/in/rehan-pathan-ab059a227/)
+- **GitHub:** [rehanpathan650](https://github.com/rehanpathan650)
+- **Portfolio:** [Visit Website](https://portfolio-rehan-one.vercel.app/)
+
+---
+
+⭐ If you find this project interesting, feel free to explore the repository and check out the projects!
