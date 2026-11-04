@@ -265,7 +265,14 @@ section { padding: 90px 0; }
 .exp-list li::before { content: '▸'; color: var(--accent); flex-shrink: 0; margin-top: 1px; }
 
 /* PROJECTS */
-.projects-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 24px; }
+
+/* PROJECTS */
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 24px;
+}
+
 .project-card {
   background: var(--card); border: 1px solid var(--border);
   border-radius: 14px; padding: 28px;
